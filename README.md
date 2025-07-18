@@ -76,7 +76,7 @@ The dataset consists of:
 - Streamlit (basic)  
 
 *📫 Contact*:  
-Email: varraguruswamy@gmail.com
+Email: guruswamyvarra23@gmail.com
 
 ---
 
